@@ -48,6 +48,6 @@ Con esto, el robot hace las 2 trayevctorias sin embargo toman 2 rutas ligerament
 
 ## Conclusiones
 
-Juan David López Regalado: No le entendí a la práctica...
-Nikola Tesla: Yo tampoco...
-Marie Curie: Los movimientos Move y Go tienen de diferencia ...
+Juan David López Regalado: No le entendí a la práctica...<br>
+Nikola Tesla: Yo tampoco...<br>
+Marie Curie: Los movimientos Move y Go tienen de diferencia ...<br>
