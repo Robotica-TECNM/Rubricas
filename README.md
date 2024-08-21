@@ -19,10 +19,10 @@ A continuación un ejemplo de como debe ir la práctica:
 - Marie Curie
 
 ## Introducción
-Los movimientos **Move** y **Go** son 2 tipos de movimientos que tiene el robot Epson C4 que tienen por diferencia que uno ... y otro ... respectivamente, una manera facil de identificarlos es mediante ...
+Los movimientos **Move** y **Go** son 2 tipos de movimientos que tiene el robot Epson C4 que tienen por diferencia que uno ... y otro ... respectivamente, una manera facil de identificarlos es mediante [N]...
 
 ## Intrucciones
-Primeramente se utilizó el simulador para comprobar que los movimientos son los correctos y no exista una colisión con el robot real que pudiera dañarlo es por eso que se usó el robot manager donde podemos modificar los puntos de donde queremos hacer el movimeinto como se muestra en la imagen:
+Primeramente se utilizó el simulador para comprobar que los movimientos son los correctos y no exista una colisión con el robot real que pudiera dañarlo es por eso que se usó el robot manager donde podemos modificar los puntos de donde queremos hacer el movimiento como se muestra en la imagen:
 
 ![Robot Manager](robotm.png)
 
@@ -48,6 +48,15 @@ Con esto, el robot hace las 2 trayevctorias sin embargo toman 2 rutas ligerament
 
 ## Conclusiones
 
-Juan David López Regalado: No le entendí a la práctica...<br>
-Nikola Tesla: Yo tampoco...<br>
-Marie Curie: Los movimientos Move y Go tienen de diferencia ...<br>
+**Juan David López Regalado:** No le entendí a la práctica...<br>
+**Nikola Tesla:** Yo tampoco...<br>
+**Marie Curie:** Los movimientos Move y Go tienen de diferencia ...<br>
+
+## Referencias Bibliográficas
+
+[1] Gruber, John. *Markdown: Syntax Documentation.* Daring Fireball, 2004, [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/).
+
+[2] MacFarlane, John. *Pandoc User’s Guide.* Pandoc, 2006, [https://pandoc.org/MANUAL.html](https://pandoc.org/MANUAL.html).
+
+[3] Williams, Matthew, et al. *Mastering Markdown.* GitHub Guides, GitHub, [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/).
+
