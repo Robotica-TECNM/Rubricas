@@ -18,7 +18,7 @@ A continuación un ejemplo de como debe ir la práctica:
 - Nikola Tesla
 - Marie Curie
 
-## Introducción
+## Instroducción
 Los movimientos **Move** y **Go** son 2 tipos de movimientos que tiene el robot Epson C4 que tienen por diferencia que uno ... y otro ... respectivamente, una manera facil de identificarlos es mediante [N]...
 
 ## Intrucciones
