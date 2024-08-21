@@ -1,7 +1,7 @@
 # Rubrica de trabajo
 
 - Los equipos de laboratorio serán de 3 personas y puede ser unicamente una laptop con el programa por equipo
-- El equipo deberá crear una organización en GitHub donde agreguen a todos los integrantes del equipo incluyendome donde crearán un repositorio por práctica en donde incluya lo siguiente:
+- El equipo deberá crear una organización en GitHub donde agreguen a todos los integrantes del equipo incluyendome, donde crearán un repositorio por práctica en donde incluya lo siguiente:
   - Número de práctica
   - Integrantes del equipo
   - Documentación completa en el README.md
