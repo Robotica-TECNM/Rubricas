@@ -5,10 +5,10 @@
   - Número de práctica
   - Integrantes del equipo
   - Documentación completa en el README.md
-  - Fracciones de código y explicación
+  - Códigos
   - Imagenes
   - Archivos utilizados
-  - Bibliografía (IEEE)
+  - Referencias bibliográficas
     
 A continuación un ejemplo de como debe ir la práctica:
 
